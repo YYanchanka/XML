@@ -1,1 +1,11 @@
-
+<bug report>
+  <id>1</id>
+  <environment>Windows 11 pro</environment>
+  <precondition>open a limk</precondition>
+  <title>the window dissapears</title>
+  <link>link</link>
+  <str>steps</str>
+  <expected result>the window appear</expected result>
+  <actual result>the window dissapears</actual result>
+  <severity>major</severity>
+</bug report>
